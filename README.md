@@ -10,7 +10,7 @@ Naive Bayes works on two assumptions:
 Both assumptions are often violated. Very few datasets in the real world satisfy them. Naive Bayes performs well regardless.
 
 ## Problem
-i want to predict the presence or absence of heart disease in patients based on blood pressure, resting blood pressure, cholesterol etc.
+I want to predict the presence or absence of heart disease in patients based on blood pressure, resting blood pressure, cholesterol etc.
 
 ## Data
 The data used has 303 observations and 14 features. It is available in this repository.
